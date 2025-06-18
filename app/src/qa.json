@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the time complexity of binary search in a sorted array?",
+      "answer": "O(log n)"
+    },
+    {
+      "id": 2,
+      "question": "What is the primary purpose of the DNS (Domain Name System)?",
+      "answer": "Translating domain names into IP addresses"
+    },
+    {
+      "id": 3,
+      "question": "Which OOP principle hides internal object details and exposes only necessary interfaces?",
+      "answer": "Encapsulation"
+    },
+    {
+      "id": 4,
+      "question": "Which sorting algorithm has the best average-case time complexity among these?",
+      "answer": "Merge Sort"
+    },
+    {
+      "id": 5,
+      "question": "In relational databases, what uniquely identifies a record in a table?",
+      "answer": "Primary Key"
+    },
+    {
+      "id": 6,
+      "question": "What does ACID stand for in the context of database transactions?",
+      "answer": "Atomicity, Consistency, Isolation, Durability"
+    },
+    {
+      "id": 7,
+      "question": "What is a deadlock in an operating system?",
+      "answer": "A process waiting indefinitely for resources held by each other"
+    },
+    {
+      "id": 8,
+      "question": "Which memory region grows downward and is used for function call stacks?",
+      "answer": "Stack"
+    },
+    {
+      "id": 9,
+      "question": "What is polymorphism in object-oriented programming?",
+      "answer": "Using a single interface to represent different types"
+    },
+    {
+      "id": 10,
+      "question": "What does TCP stand for and what is its primary purpose?",
+      "answer": "Transmission Control Protocol; reliable, ordered communication"
+    }
+  ]
+}
